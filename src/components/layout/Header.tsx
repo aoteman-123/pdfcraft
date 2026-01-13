@@ -314,16 +314,6 @@ export const Header: React.FC<HeaderProps> = ({ locale, showSearch = true }) => 
               }}
             />
 
-            {/* GitHub Repository Link */}
-            <a
-              href="https://github.com/PDFCraftTool/pdfcraft"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hidden sm:flex items-center justify-center h-9 w-9 rounded-lg text-[hsl(var(--color-muted-foreground))] hover:text-[hsl(var(--color-foreground))] hover:bg-[hsl(var(--color-muted))/0.5] transition-all"
-              aria-label="GitHub Repository"
-            >
-              <Github className="h-5 w-5" aria-hidden="true" />
-            </a>
 
             {/* Language Selector placeholder */}
             <div id="language-selector-slot" />
