@@ -156,7 +156,7 @@
     "sections": {
       "general": {
         "whatIs": {
-          "question": "PDFCraft 是什么？",
+          "question": "Hello-PDF是什么？",
           "answer": "PDFCraft 是一个免费、注重隐私的 PDF 工具包，完全在您的浏览器中运行。它提供 67+ 个专业工具，用于编辑、转换、合并、分割和加密 PDF 文件，而无需将其上传到任何服务器。"
         },
         "isFree": {
