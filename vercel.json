@@ -6,6 +6,10 @@
     {
       "source": "/pdfjs-annotation-viewer/web/viewer.html",
       "destination": "/pdfjs-annotation-viewer/web/viewer.html"
+    },
+    {
+      "source": "/pdfjs-viewer/:path*.html",
+      "destination": "/pdfjs-viewer/:path*.html"
     }
   ],
   "headers": [
